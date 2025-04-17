@@ -88,14 +88,6 @@ This means with **$230,000 spent on TV ads**, the model predicts about **19,730 
 
 ---
 
-## 🔮 Future Improvements
-
-- Extend regression to include **multiple variables** (Radio, Newspaper).
-- Use `scikit-learn` for model comparison.
-- Add interactive visualizations using Plotly or Seaborn.
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
